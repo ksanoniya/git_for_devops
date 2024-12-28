@@ -1,5 +1,5 @@
 def hello():
     a = 10
-    return b
+    return c
 
 hello()
