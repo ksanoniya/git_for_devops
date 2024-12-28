@@ -11,3 +11,9 @@
 11 git restore testing.py
 12 git status
 13 git restore testing.py
+14 history
+15 git status
+16 git status
+17 git remote add origin https://github.c... 
+18 git push origin master
+19 git remote -v
