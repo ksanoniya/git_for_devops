@@ -1,0 +1,13 @@
+1 git add.
+2 git add testing.py
+3 git status
+4 git rm --cashed testing.py
+5 git status
+6 git rm --cashed
+7 git commit -m "added testing file"        
+8 git status
+9 rm testing.py
+10 git status
+11 git restore testing.py
+12 git status
+13 git restore testing.py
